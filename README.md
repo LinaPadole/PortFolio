@@ -25,17 +25,14 @@ This is a simple HTML-based portfolio that showcases:
 
 ## 🌐 Live Portfolio
 
-🔗 View it live: [https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+🔗 View it live: [https://your-username.github.io/portfolio/]( https://linapadole.github.io/PortFolio/)
 
 
 
 ---
 
 ## 📁 Folder Structure
-portfolio/
-│
-├── index.html ← Main HTML file
-└── image.jpg ← Profile or portfolio image
+<pre> portfolio/ ├── index.html ← Main HTML file └── image.jpg ← Profile or portfolio image used in the HTML </pre>
 
 ---
 
