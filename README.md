@@ -32,9 +32,12 @@ This is a simple HTML-based portfolio that showcases:
 ---
 
 ## 📁 Folder Structure
+```
 portfolio/
 ├── index.html       # Main HTML file
 └── image.jpg        # Profile or portfolio image used in the HTML
+```
+
 
 
 ---
