@@ -32,7 +32,10 @@ This is a simple HTML-based portfolio that showcases:
 ---
 
 ## 📁 Folder Structure
-<pre> portfolio/ ├── index.html ← Main HTML file └── image.jpg ← Profile or portfolio image used in the HTML </pre>
+portfolio/
+├── index.html       # Main HTML file
+└── image.jpg        # Profile or portfolio image used in the HTML
+
 
 ---
 
